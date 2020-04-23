@@ -1,4 +1,5 @@
-# python写的简单的数据库报表
+## python写的简单的数据库报表
+## 可以用于监控数据库性能,历史信息
 ## 支持mysql,oracle,sqlserver
 > 必要条件 安装pymysql,cx_oracle,pymssql<br>
 > 源数据库信息:/etc/login.ini<br>
