@@ -1,0 +1,4 @@
+[2020-04-23 13:57:56,577] - [MainThread] - [db.py-line:73] [ERROR] cmdb 192.168.247.50 connect failed
+[2020-04-23 13:57:56,577] - [MainThread] - [db.py-line:74] [ERROR] 'NoneType' object has no attribute 'cursor'
+[2020-04-23 13:57:56,577] - [MainThread] - [db.py-line:111] [ERROR] cmdb 192.168.247.50 exec failed
+[2020-04-23 13:57:56,577] - [MainThread] - [db.py-line:112] [ERROR] 'NoneType' object has no attribute 'execute'
